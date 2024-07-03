@@ -1,3 +1,6 @@
+# Note 
+- This is my self streaming platform project made during the summer term .
+- There is need of 
 - yarn add express 
 - yarn init
 - yarn add nodemon -D
